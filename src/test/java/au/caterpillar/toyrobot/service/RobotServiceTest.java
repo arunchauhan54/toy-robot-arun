@@ -4,7 +4,6 @@ import au.caterpillar.toyrobot.model.Direction;
 import au.caterpillar.toyrobot.model.RobotDto;
 import au.caterpillar.toyrobot.model.RobotMovement;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
